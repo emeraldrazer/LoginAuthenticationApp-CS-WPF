@@ -1,0 +1,29 @@
+﻿<Window x:Class="LoginAuthenticationApp.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:behaviors="http://schemas.microsoft.com/xaml/behaviors"
+        xmlns:local="clr-namespace:LoginAuthenticationApp"
+        mc:Ignorable="d"
+        Title="Login Authentication App - Register" Height="600" Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <StackPanel Orientation="Vertical">
+        <StackPanel.Background>
+            <ImageBrush ImageSource="C:\Users\Marko29\Downloads\wallpaperflare.com_wallpaper.jpg"/>
+        </StackPanel.Background>
+
+        <Grid Width="300" Margin="0,110,0,0">
+            <Rectangle Fill="#2d3436" Opacity="0.5" RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1"/>
+            <StackPanel Margin="20">
+                <TextBlock Text="Register" FontFamily="Roboto" FontSize="36" Foreground="White" TextAlignment="Center" />
+                <TextBox x:Name="fullname" Margin="0,25,0,0" Width="250" Text="Full Name" Background="Transparent" ToolTip="Enter your Full Name" GotFocus="fullname_GotFocus" LostFocus="fullname_LostFocus" Foreground="Gray"/>
+                <TextBox x:Name="username" Margin="0,10,0,0" Width="250" Text="Username" Background="Transparent" ToolTip="Enter your Username" GotFocus="username_GotFocus" LostFocus="username_LostFocus" Foreground="Gray"/>
+                <TextBox x:Name="email" Margin="0,10,0,0" Width="250" Text="Email" Background="Transparent" ToolTip="Enter your Email" GotFocus="email_GotFocus" LostFocus="email_LostFocus" Foreground="Gray"/>
+                <PasswordBox x:Name="password" Margin="0,10,0,10" Password="Password" Width="250" Background="Transparent" ToolTip="Enter your Password" GotFocus="password_GotFocus" LostFocus="password_LostFocus" Foreground="Gray"/>
+                
+                <Button Margin="0,10,0,10" Width="100" Height="25" Background="Transparent" BorderBrush="White" Foreground="White" Cursor="Hand" FontSize="13" Click="RegisterBTN">Submit</Button>
+                <Button Margin="0,2,0,0" Width="60" Height="25" Background="Transparent" BorderBrush="Transparent" Foreground="White" Cursor="Hand" FontSize="13" Click="LoginBTN" HorizontalAlignment="Right">Login</Button>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</Window>

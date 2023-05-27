@@ -1,0 +1,16 @@
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\bin\Release\LoginAuthenticationApp.exe.config
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\bin\Release\LoginAuthenticationApp.exe
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\bin\Release\LoginAuthenticationApp.pdb
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\MainWindow.g.cs
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\App.g.cs
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp_MarkupCompile.cache
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp_MarkupCompile.lref
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\MainWindow.baml
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.g.resources
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.Properties.Resources.resources
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.csproj.GenerateResource.cache
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.exe
+C:\Users\Marko29\source\repos\LoginAuthenticationApp\LoginAuthenticationApp\obj\Release\LoginAuthenticationApp.pdb
